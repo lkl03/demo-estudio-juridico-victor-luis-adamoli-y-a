@@ -1,2 +1,7 @@
-# demo-estudio-juridico-victor-luis-adamoli-y-a
-Demo web para Estudio Juridico Victor Luis Adamoli y Abogados — diseñada por eterlab.
+# Estudio Juridico Victor Luis Adamoli y Abogados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
